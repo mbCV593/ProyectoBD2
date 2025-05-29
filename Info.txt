@@ -1,0 +1,12 @@
+Informacion importante
+
+Hay 2 archivos
+
+El .ddl es para ingresar al data modeler 
+Esto se hace desde Archivo - Importar - Archivo DDL
+Luego validamos los cambios y lo importamos
+
+El .sql es el dump de mi base de datos completa (estructura y datos)
+Lo que hay que hacer es pegar este archivo en el ide de sql de confianza y luego darle Ejecutar (f9 o f5)
+y listo tendremos la base de datos creada
+
